@@ -13,7 +13,7 @@ This document gives step-by-step guide to finish Lab1.
 Download and unzip the provided `modresorts-twas-j8.zip` file, or clone from it from [public GitHub repository](https://github.com/NoeSamaille/wca-faststart):
 
 ```bash
-git clone https://github.com/Theo-Reignier/wca-faststart.git
+git clone https://github.com/NoeSamaille/wca-faststart.git
 ```
 
 Open the `modresorts-twas-j8` folder in VScode. In order to leverage all WCA features, it's important that you open VScode from the folder that contains the Java application `modresorts-twas-j8`.
